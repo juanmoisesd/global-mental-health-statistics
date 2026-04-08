@@ -1,0 +1,23 @@
+[
+  {
+    "type": "dataset",
+    "id": "delaserna2024_global_mental_health_stat",
+    "author": [
+      {
+        "family": "de la Serna Tuya",
+        "given": "Juan Moisés"
+      }
+    ],
+    "title": "Global Mental Health Statistics",
+    "publisher": "Zenodo",
+    "DOI": "10.5281/zenodo.19145316",
+    "URL": "https://github.com/juanmoisesd/global-mental-health-statistics",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    }
+  }
+]

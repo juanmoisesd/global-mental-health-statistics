@@ -1,0 +1,11 @@
+{
+  "name": "global-mental-health-statistics",
+  "title": "Global Mental Health Statistics",
+  "resources": [
+    {
+      "path": "data/clean/mental_health_stats.csv",
+      "name": "mental_health_stats",
+      "profile": "tabular-data-resource"
+    }
+  ]
+}
