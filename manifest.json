@@ -1,7 +1,13 @@
 {
   "version": "1.0.0",
+  "generated_at": "2026-04-06T12:00:00Z",
   "files": [
-    { "path": "README.md", "hash": "..." },
-    { "path": "LICENSE", "hash": "..." }
+    "README.md",
+    "LICENSE",
+    "CITATION.cff",
+    "data/",
+    "schema.json",
+    "requirements.txt",
+    "Dockerfile"
   ]
 }

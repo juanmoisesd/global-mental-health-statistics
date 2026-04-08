@@ -1,0 +1,10 @@
+{
+  "signed": {
+    "_type": "root",
+    "version": 1,
+    "expires": "2027-04-06T12:00:00Z",
+    "keys": {},
+    "roles": {}
+  },
+  "signatures": []
+}
