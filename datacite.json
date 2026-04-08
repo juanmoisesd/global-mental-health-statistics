@@ -1,0 +1,46 @@
+{
+  "data": {
+    "type": "datasets",
+    "attributes": {
+      "doi": "10.5281/zenodo.19145316",
+      "creators": [
+        {
+          "name": "de la Serna Tuya, Juan Moisés",
+          "nameType": "Personal",
+          "givenName": "Juan Moisés",
+          "familyName": "de la Serna Tuya",
+          "affiliation": [
+            {
+              "name": "Universidad Internacional de La Rioja (UNIR)"
+            }
+          ],
+          "nameIdentifiers": [
+            {
+              "nameIdentifier": "https://orcid.org/0000-0002-8401-8018",
+              "nameIdentifierScheme": "ORCID",
+              "schemeUri": "https://orcid.org"
+            }
+          ]
+        }
+      ],
+      "titles": [
+        {
+          "title": "Global Mental Health Statistics"
+        }
+      ],
+      "publisher": "Zenodo",
+      "publicationYear": 2024,
+      "types": {
+        "resourceType": "Dataset",
+        "resourceTypeGeneral": "Dataset"
+      },
+      "descriptions": [
+        {
+          "description": "Global Mental Health Statistics and Risk Factors.",
+          "descriptionType": "Abstract"
+        }
+      ],
+      "url": "https://github.com/juanmoisesd/global-mental-health-statistics"
+    }
+  }
+}

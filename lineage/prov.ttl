@@ -1,0 +1,6 @@
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix ex: <http://example.org/> .
+
+ex:dataset_v1 a prov:Entity ;
+    prov:wasDerivedFrom ex:raw_data ;
+    prov:wasGeneratedBy ex:etl_process .

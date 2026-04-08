@@ -1,0 +1,1 @@
+This dataset provides detailed global and regional mental health statistics, including indicators for depression, anxiety, and suicide, along with various risk factors. The goal is to facilitate research in neuroscience and social sciences by providing access to open and validated data.

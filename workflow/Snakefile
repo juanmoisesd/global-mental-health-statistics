@@ -1,0 +1,12 @@
+# Snakefile Placeholder
+rule all:
+    input:
+        "data/clean/mental_health_stats.csv"
+
+rule clean_data:
+    input:
+        "data/raw/raw_data.csv"
+    output:
+        "data/clean/mental_health_stats.csv"
+    shell:
+        "python3 scripts/etl/process_data.py"

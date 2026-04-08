@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://raw.githubusercontent.com/SEMICeu/DCAT-AP/master/releases/2.0.1/dcat-ap_2.0.1.jsonld",
+    {
+      "dcat": "http://www.w3.org/ns/dcat#",
+      "dct": "http://purl.org/dc/terms/",
+      "vcard": "http://www.w3.org/2006/vcard/ns#"
+    }
+  ],
+  "@type": "dcat:Dataset",
+  "dct:title": "Global Mental Health Statistics",
+  "dct:description": "Global and Regional Mental Health Statistics and Risk Factors.",
+  "dcat:contactPoint": {
+    "@type": "vcard:Kind",
+    "vcard:fn": "Juan Moisés de la Serna Tuya",
+    "vcard:hasEmail": "mailto:juanmoises.delaserna@unir.net"
+  },
+  "dcat:keyword": ["mental health", "statistics", "global"]
+}

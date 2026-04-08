@@ -1,0 +1,6 @@
+variable,type,description,unit
+country,string,Country name,N/A
+year,integer,Year of record,Year
+indicator,string,Indicator name,N/A
+value,float,Indicator value,Various
+unit,string,Measurement unit,N/A

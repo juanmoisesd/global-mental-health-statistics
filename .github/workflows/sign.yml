@@ -1,0 +1,11 @@
+name: Sign Release
+on:
+  release:
+    types: [published]
+jobs:
+  sign:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Cosign
+        uses: sigstore/cosign-installer@v3

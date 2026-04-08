@@ -1,0 +1,4 @@
+lineage:
+  source: primary_data_collection
+  process: etl_pipeline
+  target: clean_dataset

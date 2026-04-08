@@ -1,0 +1,1 @@
+Este conjunto de datos proporciona estadísticas globales y regionales detalladas sobre salud mental, incluyendo indicadores de depresión, ansiedad y suicidio, así como diversos factores de riesgo. El objetivo es facilitar la investigación en neurociencia y ciencias sociales mediante el acceso a datos abiertos y validados.
